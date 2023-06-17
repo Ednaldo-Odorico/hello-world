@@ -8,7 +8,7 @@
      Comandos Iniciais
     - git add .
     - git status
-    - git commite -m "MENSAGEM"
+    - git commit -m "MENSAGEM"
     - git push
       
 
